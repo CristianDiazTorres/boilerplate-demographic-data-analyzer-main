@@ -1,2 +1,3 @@
-# boilerplate-demographic-data-analyzer-main
+# Demographic Data Analyzer
+
 This is the boilerplate for the Demographic Data Analyzer project.
